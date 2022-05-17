@@ -11,6 +11,8 @@ How it works:
 
 By Pressing start in proteus the StopWatch the counter will start with Hour:Min:Sec
 each have two digits.
-By pressing PD2 (pull down button) : the counter will reset
-By pressing PD3 (pull up button)   : the counter will pause
-By pressing PB2 (pull down button) : the counter will resume 
+By pressing PD2 (pull down button) : the counter will reset .
+By pressing PD3 (pull up button)   : the counter will pause . 
+By pressing PB2 (pull down button) : the counter will resume .
+
+[Recording.zip](https://github.com/AhmedGamal172000/StopWatch-embbeded-project/files/8709097/Recording.zip)
